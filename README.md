@@ -1,4 +1,4 @@
->> How add code into gitHub Repo <br>
+>>Steps :  <br>
 git init <br>
 git status <br>
 git add . <br>
