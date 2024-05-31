@@ -1,7 +1,13 @@
 >>Steps :  <br>
 git init <br>
-git status <br>
 git add . <br>
-git commit -m "initial commit" <br>
-git remote add origin < ssh key > <br>
-git push origin master or --force  <br>
+git commit -m "Meme App Final Commit" <br>
+git branch -M main <br>
+git remote add origin https://github.com/adityadave29/Meme-App.git <br>
+git push -u origin main <br><br>
+
+git checkout -b DDMMYYYY <br>
+git add . <br>
+git commit -m "New Branch" <br>
+git push origin DDMMYYYY <br>
+
